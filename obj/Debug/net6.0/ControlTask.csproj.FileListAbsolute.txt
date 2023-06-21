@@ -1,0 +1,15 @@
+/Users/annakudravceva/Desktop/ControlTask/obj/Debug/net6.0/ControlTask.csproj.AssemblyReference.cache
+/Users/annakudravceva/Desktop/ControlTask/obj/Debug/net6.0/ControlTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annakudravceva/Desktop/ControlTask/obj/Debug/net6.0/ControlTask.AssemblyInfoInputs.cache
+/Users/annakudravceva/Desktop/ControlTask/obj/Debug/net6.0/ControlTask.AssemblyInfo.cs
+/Users/annakudravceva/Desktop/ControlTask/obj/Debug/net6.0/ControlTask.csproj.CoreCompileInputs.cache
+/Users/annakudravceva/Desktop/ControlTask/bin/Debug/net6.0/ControlTask
+/Users/annakudravceva/Desktop/ControlTask/bin/Debug/net6.0/ControlTask.deps.json
+/Users/annakudravceva/Desktop/ControlTask/bin/Debug/net6.0/ControlTask.runtimeconfig.json
+/Users/annakudravceva/Desktop/ControlTask/bin/Debug/net6.0/ControlTask.dll
+/Users/annakudravceva/Desktop/ControlTask/bin/Debug/net6.0/ControlTask.pdb
+/Users/annakudravceva/Desktop/ControlTask/obj/Debug/net6.0/ControlTask.dll
+/Users/annakudravceva/Desktop/ControlTask/obj/Debug/net6.0/refint/ControlTask.dll
+/Users/annakudravceva/Desktop/ControlTask/obj/Debug/net6.0/ControlTask.pdb
+/Users/annakudravceva/Desktop/ControlTask/obj/Debug/net6.0/ControlTask.genruntimeconfig.cache
+/Users/annakudravceva/Desktop/ControlTask/obj/Debug/net6.0/ref/ControlTask.dll
